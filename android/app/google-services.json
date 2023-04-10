@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1007906131899",
+    "project_id": "movie-1-a3ff3",
+    "storage_bucket": "movie-1-a3ff3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007906131899:android:bfa91fc724ed1ba98cfe9e",
+        "android_client_info": {
+          "package_name": "com.downloader.video.tiktok.no.watermark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007906131899-eur2cjveppddaspd13g0lg4qninacfuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDWeQvqfX4uk3Q1QFTF4fsKdLq_o0Gf2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007906131899-eur2cjveppddaspd13g0lg4qninacfuf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
